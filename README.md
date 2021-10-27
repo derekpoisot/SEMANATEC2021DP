@@ -1,5 +1,5 @@
 # SEMANATEC2021DP
 Repo para clase
 
-#Introduccion
+#INTRODUCCION
 ## Curso de semana tec
